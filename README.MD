@@ -14,7 +14,7 @@ Este proyecto es una página web tipo landing page diseñada para mostrar mi por
 - **CSS3:** Para el diseño y la disposición visual.
 
 ## Estructura del Proyecto
-```plaintext
+```
 portafolio/
 ├── index.html
 ├── css/
@@ -22,6 +22,7 @@ portafolio/
 └── assets/
     ├── images/
     └── fonts/
+```
 
 - `index.html`: El archivo principal de la página web.
 - `css/styles.css`: Archivo de estilos CSS.
