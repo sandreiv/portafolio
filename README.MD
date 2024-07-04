@@ -14,14 +14,14 @@ Este proyecto es una página web tipo landing page diseñada para mostrar mi por
 - **CSS3:** Para el diseño y la disposición visual.
 
 ## Estructura del Proyecto
-
+```plaintext
 portafolio/
 ├── index.html
 ├── css/
-│ └── styles.css
+│   └── styles.css
 └── assets/
-├── images/
-└── fonts/
+    ├── images/
+    └── fonts/
 
 - `index.html`: El archivo principal de la página web.
 - `css/styles.css`: Archivo de estilos CSS.
@@ -34,4 +34,4 @@ Si tienes alguna pregunta o deseas ponerte en contacto conmigo, puedes enviarme 
 - [GitHub](https://github.com/sandreiv)
 
 ## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
+Este proyecto está licenciado bajo la Licencia MIT.
